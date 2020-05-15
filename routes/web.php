@@ -15,9 +15,9 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-//Route::get('/test', function () {
-//    return "Welcome to test, routes okay";
-//});
+Route::get('/test', function () {
+    return "Welcome to test, routes okay";
+});
 
     Route::group(['middleware' => 'cors'], function ($router) {
         Route::auth();
