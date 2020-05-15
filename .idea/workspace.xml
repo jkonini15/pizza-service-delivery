@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9a8f550-668d-4d96-9844-47af4695200e" name="Default Changelist" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-    </list>
+    <list default="true" id="a9a8f550-668d-4d96-9844-47af4695200e" name="Default Changelist" comment="first commit" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,8 +100,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="17" selection-start-line="17" selection-end-line="19" selection-end-column="3" />
+            <state relative-caret-position="270">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="e#7#389#0#PHP" expanded="true" />
               </folding>
@@ -441,7 +439,7 @@
       <workItem from="1589200480166" duration="22968000" />
       <workItem from="1589366774802" duration="11505000" />
       <workItem from="1589449361131" duration="9638000" />
-      <workItem from="1589521931895" duration="22224000" />
+      <workItem from="1589521931895" duration="22557000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1589200574740</created>
@@ -461,7 +459,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70656000" />
+    <option name="totallyTimeSpent" value="70989000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -892,8 +890,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="17" selection-start-line="17" selection-end-line="19" selection-end-column="3" />
+        <state relative-caret-position="270">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="e#7#389#0#PHP" expanded="true" />
           </folding>
