@@ -1,12 +1,15 @@
 # pizza-service-delivery
 Technoligy
+
 php Laravel, MySQL
 
 Installing
+
 composer install
 php artizan serve
 
 Applied Functions
+
 Sign in functionaliy
 Sign Up functionality
 Sign out functionality
