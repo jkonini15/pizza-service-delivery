@@ -279,7 +279,7 @@
       <path value="$PROJECT_DIR$/pizza-delivery/vendor/ramsey/uuid" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="158" />
     <option name="y" value="-13" />
     <option name="width" value="1296" />
