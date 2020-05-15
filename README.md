@@ -1,16 +1,19 @@
 # pizza-service-delivery
-Technoligy
+# Technoligy
 
-php Laravel, MySQL
+php Laravel
+
+MySQL
 
 
-Installing
+# Installing
 
 composer install
+
 php artizan serve
 
 
-Applied Functions
+# Applied Functions
 
 Sign in functionaliy
 
